@@ -1,0 +1,19 @@
+{
+  "name": "gmaps-route-scraper",
+  "version": "1.0.0",
+  "description": "Scrape Google Maps travel details using Puppeteer.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AyushDhamankar/news-scrapper.git"
+  },
+  "keywords": ["google-maps", "scraper", "puppeteer", "travel", "route"],
+  "author": "Ayush Dhamankar",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^24.3.0"
+  }
+}
